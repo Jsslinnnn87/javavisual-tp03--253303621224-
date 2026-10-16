@@ -1,1 +1,2 @@
-# javavisual-tp03--253303621224-
+# Character Manager — TP3 (Java Visual SIH-6406)
+
