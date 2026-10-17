@@ -19,15 +19,12 @@ NIM  : 253303621224
 
 Link DOC : https://1drv.ms/w/c/A4248E4F58ABC421/IQBXKXh7EN-WSqJFTbi6z28-AbzDc34foH9gl26UruGn8dc?e=A2WZag
 
-
-
 # Character Manager — TP5
  output CRUD
 <img width="960" height="564" alt="Screenshot 2026-10-16 214103" src="https://github.com/user-attachments/assets/e8d38a5c-9043-45be-9de3-90c5f160588e" />
 eksperimen reference
 <img width="960" height="564" alt="Screenshot 2026-10-17 105824" src="https://github.com/user-attachments/assets/667a64bf-0d8d-42e7-b645-6a0999c7e13b" />
 <img width="960" height="564" alt="Screenshot 2026-10-17 105839" src="https://github.com/user-attachments/assets/90a1930d-ac33-4412-a25c-a8aa20672810" />
-
 
 ## Bagian C: findStrongest()
 
