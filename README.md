@@ -12,7 +12,7 @@ File Main.java adalah kelas utama yang berfungsi sebagai titik eksekusi program 
 │           └── charactermanager/
 │               └── model/
 │                   ├── Character.java
-│                   └── CharacterType.java ```
+│                   └── CharacterType.java 
 
 Nama : Jesslin Felixa Pasaribu
 NIM  : 253303621224
