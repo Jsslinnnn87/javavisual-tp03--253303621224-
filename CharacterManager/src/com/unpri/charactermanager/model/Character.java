@@ -79,17 +79,16 @@ public class Character {
         return hitPoints > 0;
     }
 
-    // ===== toString() ...
-
     // ===== toString(): representasi teks object, berguna untuk debugging =====
-    @Override
-    public String toString() {
-        return "Character{id=" + id +
-            ", name='" + name + '\'' +
-            ", type=" + type +
-            ", level=" + level +
-            ", hp=" + hitPoints +
-            ", atk=" + attackPower + '}';
+   @Override
+public String toString() {
+    return "Character{id=" + id +
+        ", name='" + name + '\'' +
+        ", type=" + type +
+        ", level=" + level +
+        ", hp=" + hitPoints +
+        ", atk=" + attackPower +
+        ", mana=" + mana + '}';
     }
 
 }   // kurung kurawal penutup CLASS Character — pastikan jumlah buka/tutup seimbang!
