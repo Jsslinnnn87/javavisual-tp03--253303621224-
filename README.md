@@ -17,7 +17,7 @@ File Main.java adalah kelas utama yang berfungsi sebagai titik eksekusi program 
 Nama : Jesslin Felixa Pasaribu
 NIM  : 253303621224
 
-Link DOC : 
+Link DOC : https://1drv.ms/w/c/A4248E4F58ABC421/IQBXKXh7EN-WSqJFTbi6z28-AbzDc34foH9gl26UruGn8dc?e=A2WZag
 
 
 
