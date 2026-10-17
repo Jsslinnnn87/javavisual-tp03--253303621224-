@@ -4,7 +4,7 @@ File Main.java adalah kelas utama yang berfungsi sebagai titik eksekusi program 
 
 <img width="960" height="564" alt="Screenshot 2026-10-16 075410" src="https://github.com/user-attachments/assets/62d63b73-f30d-475f-bdbd-7639209bb861" />
 
-CharacterManager/
+``` CharacterManager/
 ├── src/
 │   ├── Main.java
 │   └── com/
@@ -12,7 +12,7 @@ CharacterManager/
 │           └── charactermanager/
 │               └── model/
 │                   ├── Character.java
-│                   └── CharacterType.java
+│                   └── CharacterType.java ```
 
 Nama : Jesslin Felixa Pasaribu
 NIM  : 253303621224
