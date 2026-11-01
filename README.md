@@ -42,3 +42,20 @@ eksperimen reference
 **Pengujian:** diuji di Main.java dengan list berisi karakter dan list kosong.
 
 Link DOC : https://1drv.ms/w/c/A4248E4F58ABC421/IQDcigIm37PkQ6MlCkCEx_viATLLzKQU81t7xafSoe4-low?e=WdBfS3
+
+
+# Character Manager — TP8
+
+<img width="960" height="564" alt="Screenshot 2026-10-24 205910" src="https://github.com/user-attachments/assets/dc8256a0-ce50-47e6-b99c-9bd3d9e75d8b" />
+
+**Aliran data dan MVC:**
+
+Data dibuat di Main dengan membuat object Character lalu memasukkannya ke CharacterManager lewat addCharacter(). CharacterManager (Model) menyimpan daftar karakter dan menghitung rata-rata level lewat getAverageLevel(). Hasilnya (daftar dan angka rata-rata) dikirim Main ke MainWindow (View) lewat constructor. MainWindow hanya menampilkan data itu dalam JLabel tanpa menghitung apa pun, sehingga logika (Model) dan tampilan (View) tetap terpisah sesuai prinsip MVC.
+
+
+**Karakter baru dan alasannya:**
+
+Lancelot, tipe	WARRIOR, level, alasannya karena	10	Level tinggi dipilih agar pengaruhnya ke rata-rata terlihat jelas. Statistiknya juga paling besar (HP 200, ATK 60), jadi terlihat bahwa HP dan ATK naik mengikuti level.
+Selene, tipe	HEALER, level	2, alasannya agar	Melengkapi keempat tipe di CharacterType (WARRIOR, MAGE, ARCHER, HEALER). Level rendah dipilih agar ada variasi dan menarik rata-rata turun.
+
+Link DOC : https://d.docs.live.net/a4248e4f58abc421/Dokumen/JavaVisual_TP08_%5b253303621224%5d_%5bJesslin%20Felixa%20Pasaribu%5d.docx
