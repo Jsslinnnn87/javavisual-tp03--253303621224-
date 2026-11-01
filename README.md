@@ -58,4 +58,11 @@ Data dibuat di Main dengan membuat object Character lalu memasukkannya ke Charac
 Lancelot, tipe	WARRIOR, level, alasannya karena	10	Level tinggi dipilih agar pengaruhnya ke rata-rata terlihat jelas. Statistiknya juga paling besar (HP 200, ATK 60), jadi terlihat bahwa HP dan ATK naik mengikuti level.
 Selene, tipe	HEALER, level	2, alasannya agar	Melengkapi keempat tipe di CharacterType (WARRIOR, MAGE, ARCHER, HEALER). Level rendah dipilih agar ada variasi dan menarik rata-rata turun.
 
+Sebelum :
+<img width="960" height="564" alt="Screenshot 2026-10-24 205357" src="https://github.com/user-attachments/assets/be3dc336-88ec-44ac-9a14-fddd329b6dce" />
+
+Sesudah
+<img width="960" height="564" alt="Screenshot 2026-10-24 205910" src="https://github.com/user-attachments/assets/5ce80095-188c-4071-b91c-3bb54ba1f062" />
+
+
 Link DOC : https://d.docs.live.net/a4248e4f58abc421/Dokumen/JavaVisual_TP08_%5b253303621224%5d_%5bJesslin%20Felixa%20Pasaribu%5d.docx
